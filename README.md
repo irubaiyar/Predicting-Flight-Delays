@@ -1,1 +1,2 @@
 # Predicting-Flight-Delays
+This project involves analyzing flight data from a large travel agency and trying to predict whether or not a flight will be canceled based on several factors. The data includes a variable called 'Canceled' that will act as the response variable. The other variables provided include the month of the flight, the departure time, the unique carrier code, the scheduled length of the flight in minutes, the arrival delay, thee departure delay, and the distance in miles of the flight.
